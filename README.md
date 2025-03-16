@@ -37,13 +37,13 @@ By default, the LMS comes with an admin account. Use the following credentials t
 - **Password-1:** `123456789@Lms`
 
 - **Email-2:** `adminDemo2@gmail.com`
-- **Password-2:** `123456789@Lms`
+- **Password-2:** `123456789@Lms` 
   
 ## User Login Credentials
 
 By default, the LMS comes with an admin account. Use the following credentials to log in:
 
-- **Email-1:** `user1@gmail.com`
+- **Email-1:** `user1@gmail.com `
 - **Password-1:** `123456789@Lms`
 
 ## Installation
